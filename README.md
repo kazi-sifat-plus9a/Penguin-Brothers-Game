@@ -2,4 +2,4 @@
 
 # play this game from https://kazi-sifat-plus9a.github.io/Penguin-Brothers-Game/
 
-<iframe src="https://www.retrogames.cc/embed/9447-penguin-brothers-japan.html" width="700" height="700" frameborder="yes" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+<iframe src="https://www.retrogames.cc/embed/9447-penguin-brothers-japan.html" width="700" height="500" frameborder="yes" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
